@@ -1,0 +1,16 @@
+E:\Intelligence\DeleteOldFiles\DeleteOldFiles\obj\x86\Debug\DeleteOldFiles.Form1.resources
+E:\Intelligence\DeleteOldFiles\DeleteOldFiles\obj\x86\Debug\DeleteOldFiles.Properties.Resources.resources
+E:\Intelligence\DeleteOldFiles\DeleteOldFiles\obj\x86\Debug\DeleteOldFiles.csproj.GenerateResource.Cache
+E:\Intelligence\DeleteOldFiles\DeleteOldFiles\bin\Debug\DeleteOldFiles.exe
+E:\Intelligence\DeleteOldFiles\DeleteOldFiles\bin\Debug\DeleteOldFiles.pdb
+E:\Intelligence\DeleteOldFiles\DeleteOldFiles\obj\x86\Debug\DeleteOldFiles.exe
+E:\Intelligence\DeleteOldFiles\DeleteOldFiles\obj\x86\Debug\DeleteOldFiles.pdb
+D:\git\DeleteOldFiles\DeleteOldFiles\bin\Debug\DeleteOldFiles.exe
+D:\git\DeleteOldFiles\DeleteOldFiles\bin\Debug\DeleteOldFiles.pdb
+D:\git\DeleteOldFiles\DeleteOldFiles\obj\x86\Debug\DeleteOldFiles.csprojAssemblyReference.cache
+D:\git\DeleteOldFiles\DeleteOldFiles\obj\x86\Debug\DeleteOldFiles.Form1.resources
+D:\git\DeleteOldFiles\DeleteOldFiles\obj\x86\Debug\DeleteOldFiles.Properties.Resources.resources
+D:\git\DeleteOldFiles\DeleteOldFiles\obj\x86\Debug\DeleteOldFiles.csproj.GenerateResource.cache
+D:\git\DeleteOldFiles\DeleteOldFiles\obj\x86\Debug\DeleteOldFiles.csproj.CoreCompileInputs.cache
+D:\git\DeleteOldFiles\DeleteOldFiles\obj\x86\Debug\DeleteOldFiles.exe
+D:\git\DeleteOldFiles\DeleteOldFiles\obj\x86\Debug\DeleteOldFiles.pdb
